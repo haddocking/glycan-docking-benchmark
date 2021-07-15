@@ -5,6 +5,7 @@ The repository contains the following information:
 # HADDOCK-ready-files
 
 Directory composed by sub-directories corresponding to each complex of the glycan benchmark. 
+
 Each sub-directory contains HADDOCK-ready files:
 
 * 'XXXX_ref.pdb' : Original complex structure PDB
