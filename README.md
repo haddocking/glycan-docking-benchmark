@@ -9,11 +9,13 @@ Directory composed by sub-directories corresponding to each complex of the glyca
 
 Each sub-directory contains HADDOCK-ready files:
 
+* 'XXXX_r_b.pdb' : Bound receptor PDB with renumbered atoms and renamed chain ID
+* 'XXXX_l_b.pdb' : Bound ligand PDB with renumbered atoms and renamed chain ID 
+
+The original files:
 * 'XXXX_ref.pdb' : Original complex structure PDB
 * 'XXXX_r_b_ori.pdb' : Original bound receptor PDB
 * 'XXXX_l_b_ori.pdb' : Original bound ligand PDB
-* 'XXXX_r_b.pdb' : Bound receptor PDB with renumbered atoms and renamed chain ID
-* 'XXXX_l_b.pdb' : Bound ligand PDB with renumbered atoms and renamed chain ID 
 
 
 An info file:
