@@ -1,0 +1,114 @@
+assign (resi 217 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 142 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 174 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 144 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 181 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 88 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 185 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 124 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 125 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 126 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 127 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 1 and segid B)
+(
+       (resi 217 and segid A)
+        or
+       (resi 142 and segid A)
+        or
+       (resi 174 and segid A)
+        or
+       (resi 144 and segid A)
+        or
+       (resi 181 and segid A)
+        or
+       (resi 88 and segid A)
+        or
+       (resi 185 and segid A)
+        or
+       (resi 124 and segid A)
+        or
+       (resi 125 and segid A)
+        or
+       (resi 126 and segid A)
+        or
+       (resi 127 and segid A)
+) 2.0 2.0 0.0
+assign (resi 2 and segid B)
+(
+       (resi 217 and segid A)
+        or
+       (resi 142 and segid A)
+        or
+       (resi 174 and segid A)
+        or
+       (resi 144 and segid A)
+        or
+       (resi 181 and segid A)
+        or
+       (resi 88 and segid A)
+        or
+       (resi 185 and segid A)
+        or
+       (resi 124 and segid A)
+        or
+       (resi 125 and segid A)
+        or
+       (resi 126 and segid A)
+        or
+       (resi 127 and segid A)
+) 2.0 2.0 0.0

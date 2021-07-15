@@ -1,0 +1,2 @@
+Glycan name: DNeup5Aca2-6DGalpb1-4DGlcpNAcx1-
+Residues: GAL, NAG, SIA

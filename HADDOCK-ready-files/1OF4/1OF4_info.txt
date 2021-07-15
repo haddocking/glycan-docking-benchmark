@@ -1,0 +1,2 @@
+Glycan name: DManpb1-4DManpb1-4DManpb1-4DManpb1-4DManpb1-OH
+Residues: BMA

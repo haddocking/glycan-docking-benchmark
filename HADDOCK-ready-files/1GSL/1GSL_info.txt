@@ -1,0 +1,2 @@
+Glycan name: DManpb1-4DGlcpNAcb1-4[LFucpa1-3]DGlcpNAcb1-ASN
+Residues: BMA, FUC, NAG

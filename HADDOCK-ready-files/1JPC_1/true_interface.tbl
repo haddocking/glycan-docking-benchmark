@@ -1,0 +1,104 @@
+assign (resi 34 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+) 2.0 2.0 0.0
+assign (resi 39 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+) 2.0 2.0 0.0
+assign (resi 41 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+) 2.0 2.0 0.0
+assign (resi 44 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+) 2.0 2.0 0.0
+assign (resi 26 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+) 2.0 2.0 0.0
+assign (resi 28 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+) 2.0 2.0 0.0
+assign (resi 30 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+) 2.0 2.0 0.0
+assign (resi 1 and segid B)
+(
+       (resi 34 and segid A)
+        or
+       (resi 39 and segid A)
+        or
+       (resi 41 and segid A)
+        or
+       (resi 44 and segid A)
+        or
+       (resi 26 and segid A)
+        or
+       (resi 28 and segid A)
+        or
+       (resi 30 and segid A)
+) 2.0 2.0 0.0
+assign (resi 2 and segid B)
+(
+       (resi 34 and segid A)
+        or
+       (resi 39 and segid A)
+        or
+       (resi 41 and segid A)
+        or
+       (resi 44 and segid A)
+        or
+       (resi 26 and segid A)
+        or
+       (resi 28 and segid A)
+        or
+       (resi 30 and segid A)
+) 2.0 2.0 0.0
+assign (resi 3 and segid B)
+(
+       (resi 34 and segid A)
+        or
+       (resi 39 and segid A)
+        or
+       (resi 41 and segid A)
+        or
+       (resi 44 and segid A)
+        or
+       (resi 26 and segid A)
+        or
+       (resi 28 and segid A)
+        or
+       (resi 30 and segid A)
+) 2.0 2.0 0.0

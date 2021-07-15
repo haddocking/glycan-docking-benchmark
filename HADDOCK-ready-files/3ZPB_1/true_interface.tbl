@@ -1,0 +1,14 @@
+assign (resi 236 and segid A)
+(
+       (resi 1 and segid B)
+) 2.0 2.0 0.0
+assign (resi 165 and segid A)
+(
+       (resi 1 and segid B)
+) 2.0 2.0 0.0
+assign (resi 1 and segid B)
+(
+       (resi 236 and segid A)
+        or
+       (resi 165 and segid A)
+) 2.0 2.0 0.0

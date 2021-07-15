@@ -1,0 +1,104 @@
+assign (resi 39 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 7 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 74 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 43 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 79 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 82 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 83 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 84 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 85 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 86 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+) 2.0 2.0 0.0
+assign (resi 1 and segid B)
+(
+       (resi 39 and segid A)
+        or
+       (resi 7 and segid A)
+        or
+       (resi 74 and segid A)
+        or
+       (resi 43 and segid A)
+        or
+       (resi 79 and segid A)
+        or
+       (resi 82 and segid A)
+        or
+       (resi 83 and segid A)
+        or
+       (resi 84 and segid A)
+        or
+       (resi 85 and segid A)
+        or
+       (resi 86 and segid A)
+) 2.0 2.0 0.0
+assign (resi 2 and segid B)
+(
+       (resi 39 and segid A)
+        or
+       (resi 7 and segid A)
+        or
+       (resi 74 and segid A)
+        or
+       (resi 43 and segid A)
+        or
+       (resi 79 and segid A)
+        or
+       (resi 82 and segid A)
+        or
+       (resi 83 and segid A)
+        or
+       (resi 84 and segid A)
+        or
+       (resi 85 and segid A)
+        or
+       (resi 86 and segid A)
+) 2.0 2.0 0.0

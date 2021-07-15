@@ -1,0 +1,2 @@
+Glycan name: DGlcpa1-4DGlcpa1-4DGlcpa1-4DGlcpa1-OH
+Residues: GLC

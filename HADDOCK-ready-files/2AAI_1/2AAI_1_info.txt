@@ -1,0 +1,2 @@
+Glycan name: DGalpb1-4DGlcpb1-OH
+Residues: BGC, GAL
