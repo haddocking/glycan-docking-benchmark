@@ -1,4 +1,4 @@
-## glycan-docking-benchmark
+## Glycan-docking-benchmark
 
 The repository contains the following information:
 
