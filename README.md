@@ -14,7 +14,7 @@ Each sub-directory contains HADDOCK-ready files:
 * 'XXXX_r_b.pdb' :
 * 'XXXX_l_b.pdb' :
 
-* 'XXXX_info.txt' : Associated info file for each PDB complex containing the glycan name and its residue names.
+* 'XXXX_info.txt' : Associated information file for each PDB complex containing the glycan name and its residue names.
 
 The files containing a list of the interface residues extracted from the bound complex (residues whose atoms are within a 3.9 A cut-off of any atom of any partner):
 
