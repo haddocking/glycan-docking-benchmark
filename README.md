@@ -13,7 +13,7 @@ Each sub-directory contains HADDOCK-ready files:
 * 'XXXX_r_b_ori.pdb' : Original bound receptor PDB
 * 'XXXX_l_b_ori.pdb' : Original bound ligand PDB
 * 'XXXX_r_b.pdb' : Bound receptor PDB with renumbered atoms and renamed chain ID
-* 'XXXX_l_b.pdb' : Bound ligand PDB with renumbered atoms and renamed chain ID 
+* 'XXXX_l_b.pdb' : Bound ligand PDB with renumbered atoms and renamed chain ID \n
 
 
 * 'XXXX_info.txt' : Associated information file for each PDB complex containing the glycan name and its residue names.
