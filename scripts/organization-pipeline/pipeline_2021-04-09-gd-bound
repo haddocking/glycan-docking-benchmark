@@ -1,0 +1,20 @@
+#!/usr/bin/bash
+#PBS -N pipeline
+#PBS -q medium
+#PBS -l nodes=1:ppn=48
+#PBS -S /bin/bash
+# Entire pipeline for preparing the files for docking (until the tbl file is created). This is for the true-interface runs.
+# Run from glycan-docking directory (1 directory above the HADDOCK-ready directory).
+# The directory where all the original pdb files are has to be called < HADDOCK-ready > and is found in the glycan-docking directory. 
+# The scripts are found in a directory called < scripts > that is also found in the glycan-docking directory.
+
+python scripts/organize_benchmark_gd.py HADDOCK-ready/
+python scripts/clean_glycans.py HADDOCK-ready/
+cd HADDOCK-ready/
+../scripts/renum_rechain_bound
+cd ..
+python scripts/add_glycan_res.py HADDOCK-ready/ 
+python scripts/iteration_calc_distances.py HADDOCK-ready/
+python scripts/iteration_true_interface.py HADDOCK-ready/
+rm HADDOCK-ready/gd-dataset.xlsx
+rm HADDOCK-ready/dataset.csv

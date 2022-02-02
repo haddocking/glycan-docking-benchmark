@@ -1,0 +1,2 @@
+Glycan name:  a-D-Glcp-(1->4)-a-D-Glcp
+Residues: GLC

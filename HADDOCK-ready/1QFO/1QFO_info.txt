@@ -1,0 +1,2 @@
+Glycan name:  a-NeupAc-(2->3)-b-D-Galp-(1->4)-a-D-Glcp
+Residues: GAL, GLC, SIA

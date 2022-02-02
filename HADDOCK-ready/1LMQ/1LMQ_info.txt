@@ -1,0 +1,2 @@
+Glycan name:  b-D-GlcpNAc-(1->4)-b-D-GlcpNAc-(1->4)-b-D-GlcpNAc-(1->4)-a-D-GlcpNAc
+Residues: NAG, NDG

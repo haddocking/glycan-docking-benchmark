@@ -1,0 +1,35 @@
+#!/usr/bin/bash
+
+# Script to renumber and rechain the receptor and ligand pdb files. 
+
+for file in */*_r_b.pdb
+do
+    base=$(basename ${file} _r_b.pdb)
+    mv ${base}/${base}_r_b.pdb ${base}/${base}_r_b_ori.pdb
+done
+
+for file in */*_r_b_ori.pdb
+do
+    base=$(basename ${file} ori.pdb)
+    /home/software/software/pdb-tools/pdb_reres.py -1 ${file} > ${base}renum.pdb
+done
+
+for file in *_r_b_renum.pdb
+do
+    base=$(basename ${file} _r_b_renum.pdb)
+    /trinity/login/apeliss/glycan-docking/scripts/pdb_chain.py -A ${file} > ${base}/${base}_r_b.pdb
+done
+
+rm *renum.pdb
+
+for file in */*_l_b.pdb
+do
+    base=$(basename ${file} _l_b.pdb)
+    mv ${base}/${base}_l_b.pdb ${base}/${base}_l_b_ori.pdb
+done
+
+for file in */*_l_b_ori.pdb
+do
+    base=$(basename ${file} _l_b_ori.pdb)
+    /home/software/software/pdb-tools/pdb_chain.py -B ${file} > ${base}/${base}_l_b.pdb
+done

@@ -1,0 +1,2 @@
+Glycan name:  a-L-Fucp-(1->2)-[a-D-Galp-(1->3)]-b-D-Galp
+Residues: FUC, GAL, GLA
