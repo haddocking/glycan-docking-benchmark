@@ -28,3 +28,8 @@ And the distance restraints file:
 Each sub-directory contains an analysis file containing the following files:
 
 * 'XXXX_analysis.pdb' : Processed reference complex PDB file to make it ready for analysis with ProFit (v3.3)
+
+
+The HADDOCK-ready directory also includes pre-calculated RMSD values for the superimposed unbound, free ligand structures onto the bound ligand structures, respectively for each ligand:
+* 'bb-RMSD_l.dat' : Unbound carbohydrate backbone atoms superimposed versus bound carbohydrate backbone atoms
+* 'bb-RMSD_l-sorted.dat' : Unbound carbohydrate backbone atoms superimposed versus bound carbohydrate backbone atoms, sorted from small to large
