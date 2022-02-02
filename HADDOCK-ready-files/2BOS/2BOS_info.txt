@@ -1,2 +1,0 @@
-Glycan name: DGalpa1-4DGalpb1-4DGlcpb1-C4O1
-Residues: GAL, GLA, GLC

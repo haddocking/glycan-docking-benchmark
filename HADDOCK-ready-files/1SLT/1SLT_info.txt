@@ -1,2 +1,0 @@
-Glycan name: DGalpb1-4DGlcpNAca1-OH
-Residues: GAL, NDG

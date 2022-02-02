@@ -1,2 +1,0 @@
-Glycan name: DGalpa1-6DManpb1-OH
-Residues: BMA, GLA

@@ -1,2 +1,0 @@
-Glycan name: DManpa1-3[DManpa1-6]DManpa1-6DManpa1-OH
-Residues: MAN

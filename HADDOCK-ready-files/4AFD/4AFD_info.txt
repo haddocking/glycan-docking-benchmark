@@ -1,2 +1,0 @@
-Glycan name: DGlcpb1-4DGlcpb1-4DGlcpb1-4DGlcpb1-OH
-Residues: BGC

@@ -1,2 +1,0 @@
-Glycan name: DGlcpNAca1-4DGlcpNAcb1-OH
-Residues: NAG

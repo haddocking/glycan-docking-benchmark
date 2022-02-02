@@ -1,2 +1,0 @@
-Glycan name: LFucpa1-2[DGalpa1-3]DGalpb1-4DGlcpNAcb1-OH
-Residues: FUC, GAL, GLA, NAG
