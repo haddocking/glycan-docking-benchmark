@@ -9,25 +9,22 @@ Directory composed by sub-directories corresponding to each complex of the glyca
 
 Each sub-directory contains HADDOCK-ready files:
 
-* 'XXXX_r_b.pdb' : Bound receptor PDB with renumbered atoms and renamed chain ID
-* 'XXXX_l_b.pdb' : Bound ligand PDB with renumbered atoms and renamed chain ID 
+* 'XXXX_r_b.pdb' : Bound receptor PDB
+* 'XXXX_l_b.pdb' : Bound ligand PDB
+* 'XXXX_r_u.pdb' : Unbound receptor PDB
+* 'XXXX_l_u.pdb' : Unbound ligand PDB
 
-The original files:
+The original file:
 * 'XXXX_ref.pdb' : Original complex structure PDB
-* 'XXXX_r_b_ori.pdb' : Original bound receptor PDB
-* 'XXXX_l_b_ori.pdb' : Original bound ligand PDB
-
 
 An info file:
-* 'XXXX_info.txt' : Associated information file for each PDB complex containing the glycan name and its residue names.
-
-
-The files containing a list of the interface residues extracted from the bound complex (residues whose atoms are within a 3.9 A cut-off of any atom of any partner):
-
-* 'ligand_con.txt' : Ligand interface residues
-* 'receptor_con.txt' : Receptor interface residues
-
+* 'XXXX_info.txt' : Associated information file for each PDB complex containing the glycan name and its residue names
 
 And the distance restraints file:
 
 * 'true_interface.tbl' : Ambiguous interactions restraints based on true-interface restraints
+
+
+Each sub-directory contains an analysis file containing the following files:
+
+* 'XXXX_analysis.pdb' : Processed reference complex PDB file to make it ready for analysis with ProFit (v3.3)
