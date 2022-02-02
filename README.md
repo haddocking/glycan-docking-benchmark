@@ -2,7 +2,7 @@
 
 The repository contains the following information:
 
-# HADDOCK-ready-files
+# HADDOCK-ready
 
 Directory composed by sub-directories corresponding to each complex of the glycan benchmark. 
 
